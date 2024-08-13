@@ -23,8 +23,8 @@ This project simulates the behavior of a laser beam reflected off a silver surfa
 
 1. Clone this repository:
    ```
-   git clone https://github.com/your-username/beam-simulation-project.git
-   cd beam-simulation-project
+   git clone https://github.com/chegeanthony/Cross-polarization.git
+   cd Cross-polarization
    ```
 
 2. Install the required packages:
